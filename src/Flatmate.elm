@@ -101,7 +101,7 @@ flatmates =
       , departed = Nothing
       , species = Human
       }
-    , { name = "Katherine"
+    , { name = "Katharine"
       , arrived = Just <| BasicDate Feb 2019
       , departed = Just <| BasicDate May 2019
       , species = Human
